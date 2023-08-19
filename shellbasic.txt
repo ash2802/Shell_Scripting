@@ -1,8 +1,0 @@
-1.there are differet types of Shell.
-
-
-	eg: bash, sh, fish,ksh,tsh,zsk
-
-
-
-

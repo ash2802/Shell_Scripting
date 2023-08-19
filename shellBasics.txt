@@ -1,0 +1,2 @@
+1. Theren are many shell scipts avaible.
+   	eg:bash,sh,fish,
