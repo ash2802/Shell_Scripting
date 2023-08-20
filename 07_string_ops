@@ -1,0 +1,20 @@
+#!/bin/bash
+
+myvar="Hey LalBabu! How are you?"
+
+varlen=${#myvar} 
+
+echo "the lenth of String is : $varlen" 
+
+echo "upper case is ------${myvar^^}" 
+
+echo "lower case is ----${myvar,,}" 
+
+# to Replace a word in String
+
+
+newvar=${myvar/LalBabu!/BUDDY}
+
+echo "replaced string:-- $newvar" 
+
+echo "myvar after slice---${myvar:4:9}" 
